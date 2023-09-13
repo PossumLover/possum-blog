@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'A blog',
+  title: 'Arboretum',
   author: 'James',
-  headerTitle: 'Possum Posters',
+  headerTitle: 'Arboretum',
   description: 'A blog created by malnourished white boys',
   language: 'en-us',
   theme: 'system', // system, dark or light
